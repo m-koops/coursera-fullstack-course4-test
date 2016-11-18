@@ -1,0 +1,11 @@
+/********** Base styles **********/
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.tall-section {
+  height: 1000px;
+  background-color: lightgrey;
+}
