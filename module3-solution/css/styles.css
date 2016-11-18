@@ -5,6 +5,14 @@
   margin: 0;
 }
 
+#nav-list li {
+  padding: 5px 0;
+}
+
+#nav-list li:not(:last-of-type) {
+  border-bottom: 1px solid #e7e7e7;
+}
+
 .tall-section {
   height: 1000px;
   background-color: lightgrey;
